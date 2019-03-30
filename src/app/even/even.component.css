@@ -1,0 +1,12 @@
+div {
+  font-size: 2rem;
+  color: #000;
+}
+
+div p {
+  color: lawngreen;
+}
+
+div span {
+  color: #777;
+}
